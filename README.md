@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HooNL
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning Vue
+- 👀 I’m interested in programming
+- 🌱 I’m currently searching for work
 - 📫 How to reach me akbarrezaie6@gmail.com
 
 <!---
